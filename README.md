@@ -9,5 +9,5 @@ It uses python language. The zip files contain image data, the python notebook o
 - LAB 5: Noise Filtering using Bilateral Filtering and Non-local
 Means Filtering
 - LAB 6: Gaussian and Laplacian Pyramids
-- lab 7: Image Transforms
+- LAB 7: Image Transforms
 - LAB 8: Image Restoration
